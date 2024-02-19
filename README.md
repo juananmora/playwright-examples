@@ -1,4 +1,4 @@
-# 🎭 Playwright Examples Jon
+# 🎭 Playwright Examples Jonas
 
 This repo is used to demonstrate various testing scenarios with [Playwright](https://playwright.dev/) 🎭 with Node.js.
 
